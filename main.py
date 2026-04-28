@@ -1,6 +1,6 @@
 import requests
 
-# Simulando envio de lead para um CRM via API
+# Simulating sending a lead to a CRM via API
 url = "https://jsonplaceholder.typicode.com/posts"
 
 data = {
